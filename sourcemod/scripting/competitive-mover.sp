@@ -14,7 +14,7 @@
 public Plugin myinfo = 
 {
 	name = "[TF2] Competitive Discord Mover", 
-	author = "Lucas 'puntero' Maza", 
+	author = "Lucas 'puntero' Maza & ampere", 
 	description = "Moves users on Discord on corcondance with the teams they're in.", 
 	version = PLUGIN_VERSION, 
 	url = "https://steamcommunity.com/id/funkes"
