@@ -1,0 +1,6 @@
+{
+    "name": "root/html",
+    "require": {
+        "xwilarg/discord-oauth2-php": "^1.5"
+    }
+}

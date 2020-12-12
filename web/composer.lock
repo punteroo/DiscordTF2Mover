@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d4a406842f3a1fedce0b2720660481d1",
+    "packages": [
+        {
+            "name": "xwilarg/discord-oauth2-php",
+            "version": "v1.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Xwilarg/Discord-OAuth2-PHP.git",
+                "reference": "763c5c3397c1a8078a1e44326c858d5620dbedf8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Xwilarg/Discord-OAuth2-PHP/zipball/763c5c3397c1a8078a1e44326c858d5620dbedf8",
+                "reference": "763c5c3397c1a8078a1e44326c858d5620dbedf8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Xwilarg\\Discord\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Xwilarg",
+                    "email": "xwilarg@yahoo.fr"
+                }
+            ],
+            "description": "PHP Library for Discord OAuth2",
+            "keywords": [
+                "discord",
+                "discord-oauth",
+                "oauth2",
+                "oauth2-client"
+            ],
+            "support": {
+                "issues": "https://github.com/Xwilarg/Discord-OAuth2-PHP/issues",
+                "source": "https://github.com/Xwilarg/Discord-OAuth2-PHP/tree/master"
+            },
+            "time": "2020-07-17T01:45:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
