@@ -6,7 +6,7 @@ It is mildly customizable with ConVars that control the plugin's connection and 
 **As this is the initial release, I'm planning on adding much more customization and easier installation for a more drag & drop install. Please, don't hesitate to recommend what could be done better by making an issue on the repo. My top priority with this project is simplify it as much as possible, any tip is welcome.**
 
 # Credits
-### The original plugin (**private**) was made by my all-time companion [**ratawar**](https://github.com/ratawar). Most of the idea and logic was provided by him, I just made a more user-friendly version for people to utilize so please thank him more than me for this project's life.
+### The original plugin (**private**) was made by my all-time companion [**ampere**](https://github.com/maxijabase). Most of the idea and logic was provided by him, I just made a more user-friendly version for people to utilize so please thank him more than me for this project's life.
 
 
 # Dependencies
